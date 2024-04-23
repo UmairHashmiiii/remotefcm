@@ -85,7 +85,7 @@ class _NotificationSchedulerScreenState
 
                 _scheduleNotification(_selectedDateTime, message);
 
-                print(
+                debugPrint(
                     'Scheduled notification for $_selectedDateTime with message: $message');
               },
               child: Text('Schedule Notification'),
