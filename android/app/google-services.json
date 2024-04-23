@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "756250378645",
+      "project_id": "fcmtest-8ff37",
+    "storage_bucket": "fcmtest-8ff37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756250378645:android:6f8a5eabb80e19fc2ab69c",
+        "android_client_info": {
+          "package_name": "com.example.remotefcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-RuiM60wENZrb1U7NzxDqy6HVO3ysLqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
