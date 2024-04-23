@@ -1,16 +1,8 @@
 # remotefcm
 
-A new Flutter project.
+Here's a breakdown of how it works:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The user selects a date and time through the UI.
+When the user schedules the notification,  app stores the selected date and time along with the notification message.
+At the scheduled date and time,  app triggers the notification to be displayed on the device.
+This setup enables  app to serve as a reminder or alarm system where users can set notifications for various events or tasks they need to be reminded of at specific times.
